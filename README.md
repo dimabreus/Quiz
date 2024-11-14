@@ -6,7 +6,7 @@ Full-stack application for creating and managing quizzes.
 ```
 Quiz/
 ├── frontend/         # React + TypeScript frontend
-└── backend/         # Python FastAPI backend
+└── backend/         # JavaScript + SQLite backend
     ├── main.py
     ├── models.py
     ├── database.py
